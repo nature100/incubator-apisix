@@ -41,6 +41,7 @@ Users are encouraged to add themselves to this page, [issue](https://github.com/
 1. Tencent Cloud 腾讯云 https://cloud.tencent.com/
 1. Xin 优信二手车 https://www.xin.com/
 1. zuzuche 租租车 https://www.zuzuche.com/
+1. youth-generation.cn 青生代 https://www.youth-generation.cn/
 
 
 # User Cases
@@ -61,3 +62,6 @@ Using APISIX as a Web ACL gateway to deal with backend OA systems traffic.
 
 ## HelloTalk, Inc.
 Using Apache APISIX as an API gateway to manage all API and SSL certificates in test\dev\CMS environment.
+
+## youth-generation.cn
+Use Apache APISIX as an API gateway to manage production services and achieve limited access.
